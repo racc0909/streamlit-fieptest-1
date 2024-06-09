@@ -2,6 +2,7 @@ import pickle
 from pathlib import Path
 
 import streamlit_authenticator as stauth
+from streamlit_authenticator.utilities.hasher import Hasher
 
 names = ["Peter Parker", "Rebecca Miller"]
 usernames = ["pparker", "rmiller"]
