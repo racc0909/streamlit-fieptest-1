@@ -22,3 +22,4 @@ scikit-misc
 simpy
 pickle
 streamlit_authenticator
+streamlit-authenticator
