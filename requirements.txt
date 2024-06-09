@@ -20,3 +20,5 @@ folium
 streamlit_folium
 scikit-misc
 simpy
+pickle
+streamlit_authenticator
